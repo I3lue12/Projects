@@ -1,0 +1,10 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\Zoo_Animal_Big_Small\Zoo_Animal_Big_Small\bin\Debug\Zoo_Animal_Big_Small.exe.config
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\Zoo_Animal_Big_Small\Zoo_Animal_Big_Small\bin\Debug\Zoo_Animal_Big_Small.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\Zoo_Animal_Big_Small\Zoo_Animal_Big_Small\bin\Debug\Zoo_Animal_Big_Small.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\Zoo_Animal_Big_Small\Zoo_Animal_Big_Small\obj\Debug\Zoo_Animal_Big_Small.csprojAssemblyReference.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\Zoo_Animal_Big_Small\Zoo_Animal_Big_Small\obj\Debug\Zoo_Animal_Big_Small.frmMain.resources
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\Zoo_Animal_Big_Small\Zoo_Animal_Big_Small\obj\Debug\Zoo_Animal_Big_Small.Properties.Resources.resources
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\Zoo_Animal_Big_Small\Zoo_Animal_Big_Small\obj\Debug\Zoo_Animal_Big_Small.csproj.GenerateResource.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\Zoo_Animal_Big_Small\Zoo_Animal_Big_Small\obj\Debug\Zoo_Animal_Big_Small.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\Zoo_Animal_Big_Small\Zoo_Animal_Big_Small\obj\Debug\Zoo_Animal_Big_Small.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\Zoo_Animal_Big_Small\Zoo_Animal_Big_Small\obj\Debug\Zoo_Animal_Big_Small.pdb

@@ -1,0 +1,10 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\WhatsMyPhoneNumber\WhatsMyPhoneNumber\bin\Debug\WhatsMyPhoneNumber.exe.config
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\WhatsMyPhoneNumber\WhatsMyPhoneNumber\bin\Debug\WhatsMyPhoneNumber.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\WhatsMyPhoneNumber\WhatsMyPhoneNumber\bin\Debug\WhatsMyPhoneNumber.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\WhatsMyPhoneNumber\WhatsMyPhoneNumber\obj\Debug\WhatsMyPhoneNumber.csprojAssemblyReference.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\WhatsMyPhoneNumber\WhatsMyPhoneNumber\obj\Debug\WhatsMyPhoneNumber.frmMain.resources
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\WhatsMyPhoneNumber\WhatsMyPhoneNumber\obj\Debug\WhatsMyPhoneNumber.Properties.Resources.resources
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\WhatsMyPhoneNumber\WhatsMyPhoneNumber\obj\Debug\WhatsMyPhoneNumber.csproj.GenerateResource.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\WhatsMyPhoneNumber\WhatsMyPhoneNumber\obj\Debug\WhatsMyPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\WhatsMyPhoneNumber\WhatsMyPhoneNumber\obj\Debug\WhatsMyPhoneNumber.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\MomsProjects\WhatsMyPhoneNumber\WhatsMyPhoneNumber\obj\Debug\WhatsMyPhoneNumber.pdb
