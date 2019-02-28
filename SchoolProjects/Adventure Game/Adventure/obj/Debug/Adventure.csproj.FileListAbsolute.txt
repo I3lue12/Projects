@@ -1,0 +1,11 @@
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\bin\Debug\Adventure5.exe.config
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\bin\Debug\Adventure5.exe
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\bin\Debug\Adventure5.pdb
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\obj\Debug\Adventure.FrmInventory.resources
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\obj\Debug\Adventure.FrmMain.resources
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\obj\Debug\Adventure.Properties.Resources.resources
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\obj\Debug\Adventure.csproj.GenerateResource.cache
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\obj\Debug\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\obj\Debug\Adventure5.exe
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\obj\Debug\Adventure5.pdb
+C:\Users\CCSDuser\Desktop\School Homework\PRG_321_big_game\PRG_321_Evening\5-29-2018\Adventure v11\Adventure\obj\Debug\Adventure.csprojAssemblyReference.cache
