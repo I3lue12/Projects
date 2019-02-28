@@ -1,0 +1,206 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Blau's Rocket Simulator</title>
+    <style>
+        .leftPanel 
+        {
+            float:left;
+            width: 250px;
+            height: 700px;
+            border:thick;
+        }
+        .rightPanel
+        {
+            float:left;
+        }
+    </style>
+    <script type="text/javascript">
+        var accelGravity = -9.8;    // gravitational accel constant
+        var accelEng;
+        var time = 0.0;   // Total time since start of simulation
+        var timestep = 3.0; // how much time to advance forward for each iteration of the loop
+        var yRocket = 0.0;
+        var vyRocket = 0.0;
+        var xRocket = 200.0;
+        var vxRocket = 0.0;
+        var yStation;
+        var EngOn = false;   // Engine off to start
+        var tmr;
+        var n = 0;  // stores next frame of Rocket animation to display
+        var crashed = false;
+        var crashedGround = false;
+        var replayFrame = true;
+        var fuel = 1000000;
+
+        function Start()
+        {   // Start simulation timer
+            tmr = setInterval(StepForward, 100);
+        }
+
+        function Pause()
+        {   // Pause simulation timer
+            clearInterval(tmr);
+        }
+
+        function EngineOn()
+        {
+            if (fuel > 0)
+            {
+                EngOn = true;
+            }
+        }
+
+        function Kill()
+        {
+            EngOn = false;
+        }
+
+        function Steer(dir)
+        {
+            vxRocket += dir;
+        }
+
+        function StepForward()
+        {
+            yStation = Number(tbHeight.value);//grab user's Station height and convert to a number
+            accelEng = Number(tbAccel.value);// grab user's Eng accel and convert to a number
+            n = n + 1;  // increment the frame counter to the next frame;
+            if ((crashed == false) && (crashedGround == false)) // make sure we haven't crashed into station OR gnd
+            {
+                if (n == 4)
+                {
+                    n = 0;  // reset the frame counter when we run out of animation frames
+                }
+                var rFile;  // filename of the Rocket image to use for the animation
+                if (EngOn == true)
+                {
+                    fuel = fuel - timestep;// deduct fuel 
+                    rFile = "RocketOn" + n + ".png"; // grab the next frame with Engine One
+                    imgRocket.src = rFile;  // set image to the next animation frame
+                    vyRocket = CalcVelocity(vyRocket, accelEng, timestep);    // calc new value of Rocket velocity
+                }
+                else
+                {
+                    rFile = "Rocket" + n + ".png";   // grab the next frame with Engine Off
+                    imgRocket.src = rFile; // set image to the next animation frame
+                    if (yRocket > 0)
+                    {
+                        vyRocket = CalcVelocity(vyRocket, accelGravity, timestep);    // calc new value of Rocket velocity
+                    }
+                }
+                yRocket = CalcDistance(yRocket, vyRocket, timestep); // calc new distance Rocket traveled
+                xRocket += vxRocket;    // calc new distance in x-axis that Rocket has traveled
+
+                if ((yRocket <= 0) && (vyRocket < 0))
+                {   // check if rocket has just crashed into ground...
+                    crashedGround = true;
+                }
+                else if (yRocket > Number(tbHeight.value))
+                {
+                    crashed = true;
+                }
+            }
+            else if(crashed == true)
+            {
+                if (n < 33)
+                {
+                    var eFile = "explosion" + n + ".png";  // grab next frame of the explosion
+                    imgRocket.src = eFile;  // set explosion image to the next frame
+                }
+            }
+            else if (crashedGround == true)
+            {
+                if (replayFrame == true)
+                {
+                    n = n - 1;
+                }
+                replayFrame = !replayFrame;
+                if (n < 15)
+                {
+                    var eFile = "gExplosion" + n + ".png";  // grab next frame of the explosion
+                    imgRocket.src = eFile;  // set explosion image to the next frame
+                }
+            }
+
+            if (crashed == false && yRocket > 0.9 * yStation)
+            {
+                fuel = fuel * 1.01;
+            }
+
+            if (fuel <= 0)
+            {
+                EngOn = false;// ran out of fuel
+            }
+
+            var yRocketPixel = 575 - (yRocket / 1100);    // Convert rocket's height into screen pixels
+            imgRocket.style.marginTop = yRocketPixel + "px";   // Update rocket image to its new location in space
+            var xRocketPixel = xRocket / 1100;  // Convert rocket's x-dimension from meters into screen pixels
+            imgRocket.style.marginLeft = xRocketPixel + "px";
+
+            if (xRocketPixel > 400 && xRocketPixel < 500)
+            {
+                if (yRocketPixel > 550)
+                {
+//                    window.alert("x- AND y-axis are near landing zone");
+                    if (vyRocket < 150 && vyRocket > -150)
+                    {
+                        Pause();
+                        window.alert("Victory!");
+                    }
+                }
+            }
+
+            tbTime.value = time;    // update textboxes with current Rocket data...
+            tbDistance.value = yRocket;
+            tbSpeed.value = vyRocket;
+            tbFuel.value = fuel;
+            tbX.value = xRocketPixel;
+            tbY.value = yRocketPixel;
+            time = time + timestep; // move clock forward according to the timestep
+        }
+
+        function CalcVelocity(vOld, aRocket, timestep)
+        {
+            var vNew = vOld + aRocket * timestep;
+            return vNew;
+        }
+
+        function CalcDistance(yOld, vyRocket, timestep)
+        {
+            var yNew = yOld + vyRocket * timestep;
+            return yNew;
+        }
+    </script>
+    <style type="text/css">
+        #tbTime {
+            height: 22px;
+        }
+    </style>
+</head>
+<body>
+    <div class="leftPanel">
+        <h2>Welcome to the Rocket Simulator</h2><br />
+        Station Height: <input type="text" id="tbHeight" value="625000" style="width:60px" />
+        Acceleration (m/s): <input type="text" id="tbAccel" value="12.73" style="width:35px" /><br />
+        <input type="button" id="btnStart" value="Start Sim" onclick="Start();" />
+        <input type="button" id="btnPause" value="Pause" onclick="Pause();" />
+        <input type="button" id="btnEngineOn" value="Eng On" onclick="EngineOn();" />
+        <input type="button" id="btnKill" value="Kill" onclick="Kill();" />
+        <br />
+        <input type="button" id="btnLeft" value="<-" onclick="Steer(-100);" style="width:70px; font-weight:bolder;" />
+        <input type="button" id="btnRight" value="->" onclick="Steer(100);" style="width:70px; font-weight:bolder;" />
+        <br />
+        Time:<input type="text" id="tbTime" value="0.0" /> sec<br />
+        xRocketPixel:<input type="text" id="tbX" value="0.0" /> pixels<br />
+        yRocketPixel:<input type="text" id="tbY" value="0.0" /> pixels<br />
+        yRocket:<input type="text" id="tbDistance" value="0.0" /> meters<br />
+        Speed:<input type="text" id="tbSpeed" value="0.0" /> m/s<br />
+        Fuel:<input type="text" id="tbFuel" value="0.0" /> sec<br />
+    </div>
+
+    <div class ="rightPanel">
+        <img id="imgRocket" src="Rocket0.png" style="margin-top:575px; margin-left:0px;" />
+    </div>
+</body>
+</html>
