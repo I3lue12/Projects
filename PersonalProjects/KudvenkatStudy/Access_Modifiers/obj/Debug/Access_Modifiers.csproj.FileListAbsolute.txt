@@ -1,0 +1,7 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Access_Modifiers\bin\Debug\Access_Modifiers.exe.config
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Access_Modifiers\bin\Debug\Access_Modifiers.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Access_Modifiers\bin\Debug\Access_Modifiers.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Access_Modifiers\obj\Debug\Access_Modifiers.csprojAssemblyReference.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Access_Modifiers\obj\Debug\Access_Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Access_Modifiers\obj\Debug\Access_Modifiers.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Access_Modifiers\obj\Debug\Access_Modifiers.pdb

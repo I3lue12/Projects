@@ -1,0 +1,7 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\53_REflections\bin\Debug\53_REflections.exe.config
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\53_REflections\bin\Debug\53_REflections.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\53_REflections\bin\Debug\53_REflections.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\53_REflections\obj\Debug\53_REflections.csprojAssemblyReference.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\53_REflections\obj\Debug\53_REflections.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\53_REflections\obj\Debug\53_REflections.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\53_REflections\obj\Debug\53_REflections.pdb

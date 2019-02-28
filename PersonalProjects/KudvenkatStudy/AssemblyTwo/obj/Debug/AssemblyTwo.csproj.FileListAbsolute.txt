@@ -1,0 +1,9 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyTwo\bin\Debug\AssemblyTwo.dll
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyTwo\bin\Debug\AssemblyTwo.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyTwo\bin\Debug\AssemblyOne.dll
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyTwo\bin\Debug\AssemblyOne.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyTwo\obj\Debug\AssemblyTwo.csprojAssemblyReference.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyTwo\obj\Debug\AssemblyTwo.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyTwo\obj\Debug\AssemblyTwo.csproj.CopyComplete
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyTwo\obj\Debug\AssemblyTwo.dll
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyTwo\obj\Debug\AssemblyTwo.pdb

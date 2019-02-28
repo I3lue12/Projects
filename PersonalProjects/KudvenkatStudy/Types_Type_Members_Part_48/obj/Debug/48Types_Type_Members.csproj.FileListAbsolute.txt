@@ -1,0 +1,6 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Types_Type_Members_Part_48\bin\Debug\Types_Type_Members_Part_48.exe.config
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Types_Type_Members_Part_48\bin\Debug\Types_Type_Members_Part_48.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Types_Type_Members_Part_48\bin\Debug\Types_Type_Members_Part_48.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Types_Type_Members_Part_48\obj\Debug\48Types_Type_Members.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Types_Type_Members_Part_48\obj\Debug\Types_Type_Members_Part_48.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\Types_Type_Members_Part_48\obj\Debug\Types_Type_Members_Part_48.pdb

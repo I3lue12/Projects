@@ -1,0 +1,9 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AssemblyTwo\bin\Debug\51AssemblyTwo.dll
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AssemblyTwo\bin\Debug\51AssemblyTwo.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AssemblyTwo\bin\Debug\51AsseblyOne.dll
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AssemblyTwo\bin\Debug\51AsseblyOne.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AssemblyTwo\obj\Debug\51AssemblyTwo.csprojAssemblyReference.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AssemblyTwo\obj\Debug\51AssemblyTwo.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AssemblyTwo\obj\Debug\51AssemblyTwo.csproj.CopyComplete
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AssemblyTwo\obj\Debug\51AssemblyTwo.dll
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AssemblyTwo\obj\Debug\51AssemblyTwo.pdb

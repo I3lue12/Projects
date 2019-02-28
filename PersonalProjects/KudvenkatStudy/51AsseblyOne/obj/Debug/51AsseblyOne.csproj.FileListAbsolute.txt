@@ -1,0 +1,5 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AsseblyOne\bin\Debug\51AsseblyOne.dll
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AsseblyOne\bin\Debug\51AsseblyOne.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AsseblyOne\obj\Debug\51AsseblyOne.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AsseblyOne\obj\Debug\51AsseblyOne.dll
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\51AsseblyOne\obj\Debug\51AsseblyOne.pdb

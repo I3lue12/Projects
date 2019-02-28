@@ -1,0 +1,7 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\52Attributes\bin\Debug\52Attributes.exe.config
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\52Attributes\bin\Debug\52Attributes.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\52Attributes\bin\Debug\52Attributes.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\52Attributes\obj\Debug\52Attributes.csprojAssemblyReference.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\52Attributes\obj\Debug\52Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\52Attributes\obj\Debug\52Attributes.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\52Attributes\obj\Debug\52Attributes.pdb

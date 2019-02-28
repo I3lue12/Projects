@@ -1,0 +1,5 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyOne\bin\Debug\AssemblyOne.dll
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyOne\bin\Debug\AssemblyOne.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyOne\obj\Debug\50AssemblyOne.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyOne\obj\Debug\AssemblyOne.dll
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\AssemblyOne\obj\Debug\AssemblyOne.pdb

@@ -1,0 +1,10 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\54_reflection\bin\Debug\54_reflection.exe.config
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\54_reflection\bin\Debug\54_reflection.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\54_reflection\bin\Debug\54_reflection.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\54_reflection\obj\Debug\54_reflection.csprojAssemblyReference.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\54_reflection\obj\Debug\_54_reflection.Form1.resources
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\54_reflection\obj\Debug\_54_reflection.Properties.Resources.resources
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\54_reflection\obj\Debug\54_reflection.csproj.GenerateResource.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\54_reflection\obj\Debug\54_reflection.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\54_reflection\obj\Debug\54_reflection.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\54_reflection\obj\Debug\54_reflection.pdb

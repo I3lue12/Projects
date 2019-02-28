@@ -1,0 +1,10 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\KudvenkatStudy\bin\Debug\KudvenkatStudy.exe.config
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\KudvenkatStudy\bin\Debug\KudvenkatStudy.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\KudvenkatStudy\bin\Debug\KudvenkatStudy.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\KudvenkatStudy\obj\Debug\KudvenkatStudy.csprojAssemblyReference.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\KudvenkatStudy\obj\Debug\KudvenkatStudy.Form1.resources
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\KudvenkatStudy\obj\Debug\KudvenkatStudy.Properties.Resources.resources
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\KudvenkatStudy\obj\Debug\KudvenkatStudy.csproj.GenerateResource.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\KudvenkatStudy\obj\Debug\KudvenkatStudy.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\KudvenkatStudy\obj\Debug\KudvenkatStudy.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\KudvenkatStudy\obj\Debug\KudvenkatStudy.pdb

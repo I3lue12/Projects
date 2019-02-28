@@ -1,0 +1,7 @@
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\MainConsoleWindow\bin\Debug\MainConsoleWindow.exe.config
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\MainConsoleWindow\bin\Debug\MainConsoleWindow.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\MainConsoleWindow\bin\Debug\MainConsoleWindow.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\MainConsoleWindow\obj\Debug\MainConsoleWindow.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\MainConsoleWindow\obj\Debug\MainConsoleWindow.exe
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\MainConsoleWindow\obj\Debug\MainConsoleWindow.pdb
+C:\Users\Brendon\Documents\Visual Studio 2017\2017VisualStudio\KudvenkatStudy\MainConsoleWindow\obj\Debug\MainConsoleWindow.csprojAssemblyReference.cache
