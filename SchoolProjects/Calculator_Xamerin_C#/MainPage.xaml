@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Calc"
+             x:Class="Calc.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        <!-- Place new controls here -->
+        <StackLayout Orientation="Horizontal">
+            <Label HorizontalOptions="CenterAndExpand" x:Name="lblDisplay" HeightRequest="100"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            
+            <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" WidthRequest="50">
+                <Button x:Name="btnMC" Text="MC" Clicked="btnMEM_Clicked"></Button>
+                <Button x:Name="btnCE" Text="CE" Clicked="btnMEM_Clicked"></Button>
+                <Button x:Name="btn7" Text="7" Clicked="btnNum_Clicked"></Button>
+                <Button x:Name="btn4" Text="4" Clicked="btnNum_Clicked"></Button>
+                <Button x:Name="btn1" Text="1" Clicked="btnNum_Clicked"></Button>
+                <Button x:Name="btnIsNegative" Text="+/-" Clicked="btnIsNegative_Clicked"></Button>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" WidthRequest="50">
+                <Button x:Name="btnMR" Text="MR" Clicked="btnMEM_Clicked"></Button>
+                <Button x:Name="btnC" Text="C" Clicked="btnClear_Clicked"></Button>
+                <Button x:Name="btn8" Text="8" Clicked="btnNum_Clicked"></Button>
+                <Button x:Name="btn5" Text="5" Clicked="btnNum_Clicked"></Button>
+                <Button x:Name="btn2" Text="2" Clicked="btnNum_Clicked"></Button>
+                <Button x:Name="btn0" Text="0" Clicked="btnNum_Clicked"></Button>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" WidthRequest="50">
+                <Button x:Name="btnMAdd" Text="M+" Clicked="btnMEM_Clicked"></Button>
+                <Button x:Name="btnDel" Text="DEL" Clicked="btnDel_Clicked"></Button>
+                <Button x:Name="btn9" Text="9" Clicked="btnNum_Clicked"></Button>
+                <Button x:Name="btn6" Text="6" Clicked="btnNum_Clicked"></Button>
+                <Button x:Name="btn3" Text="3" Clicked="btnNum_Clicked"></Button>
+                <Button x:Name="btnDot" Text="." Clicked="btnDot_Clicked"></Button>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" WidthRequest="50">
+                <Button x:Name="btnMSubtract" Text="M-" Clicked="btnMEM_Clicked"></Button>
+                <Button x:Name="btnDiv" Text="/" Clicked="btnOp_Clicked"></Button>
+                <Button x:Name="btnX" Text="X" Clicked="btnOp_Clicked"></Button>
+                <Button x:Name="btnSub" Text="-" Clicked="btnOp_Clicked"></Button>
+                <Button x:Name="btnAdd" Text="+" Clicked="btnOp_Clicked"></Button>
+                <Button x:Name="btnEqual" Text="=" Clicked="btnEqual_Clicked"></Button>
+            </StackLayout>
+        </StackLayout>        
+    </StackLayout>
+
+</ContentPage>

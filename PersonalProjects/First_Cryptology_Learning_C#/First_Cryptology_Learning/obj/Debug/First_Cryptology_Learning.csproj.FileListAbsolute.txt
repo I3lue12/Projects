@@ -1,0 +1,10 @@
+C:\Users\CCSDuser\Desktop\School Homework\C# Learning\First_Cryptology_Learning\First_Cryptology_Learning\bin\Debug\First_Cryptology_Learning.exe.config
+C:\Users\CCSDuser\Desktop\School Homework\C# Learning\First_Cryptology_Learning\First_Cryptology_Learning\bin\Debug\First_Cryptology_Learning.exe
+C:\Users\CCSDuser\Desktop\School Homework\C# Learning\First_Cryptology_Learning\First_Cryptology_Learning\bin\Debug\First_Cryptology_Learning.pdb
+C:\Users\CCSDuser\Desktop\School Homework\C# Learning\First_Cryptology_Learning\First_Cryptology_Learning\obj\Debug\First_Cryptology_Learning.csprojAssemblyReference.cache
+C:\Users\CCSDuser\Desktop\School Homework\C# Learning\First_Cryptology_Learning\First_Cryptology_Learning\obj\Debug\First_Cryptology_Learning.Form1.resources
+C:\Users\CCSDuser\Desktop\School Homework\C# Learning\First_Cryptology_Learning\First_Cryptology_Learning\obj\Debug\First_Cryptology_Learning.Properties.Resources.resources
+C:\Users\CCSDuser\Desktop\School Homework\C# Learning\First_Cryptology_Learning\First_Cryptology_Learning\obj\Debug\First_Cryptology_Learning.csproj.GenerateResource.cache
+C:\Users\CCSDuser\Desktop\School Homework\C# Learning\First_Cryptology_Learning\First_Cryptology_Learning\obj\Debug\First_Cryptology_Learning.csproj.CoreCompileInputs.cache
+C:\Users\CCSDuser\Desktop\School Homework\C# Learning\First_Cryptology_Learning\First_Cryptology_Learning\obj\Debug\First_Cryptology_Learning.exe
+C:\Users\CCSDuser\Desktop\School Homework\C# Learning\First_Cryptology_Learning\First_Cryptology_Learning\obj\Debug\First_Cryptology_Learning.pdb
